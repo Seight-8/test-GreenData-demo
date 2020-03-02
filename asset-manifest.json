@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/test-GreenData-demo/static/css/main.716bce0d.chunk.css",
+    "main.js": "/test-GreenData-demo/static/js/main.f727fa64.chunk.js",
+    "main.js.map": "/test-GreenData-demo/static/js/main.f727fa64.chunk.js.map",
+    "runtime-main.js": "/test-GreenData-demo/static/js/runtime-main.d188bdfb.js",
+    "runtime-main.js.map": "/test-GreenData-demo/static/js/runtime-main.d188bdfb.js.map",
+    "static/js/2.b4aed19b.chunk.js": "/test-GreenData-demo/static/js/2.b4aed19b.chunk.js",
+    "static/js/2.b4aed19b.chunk.js.map": "/test-GreenData-demo/static/js/2.b4aed19b.chunk.js.map",
+    "index.html": "/test-GreenData-demo/index.html",
+    "precache-manifest.1bb5bde5635c26e19901af3869a402c8.js": "/test-GreenData-demo/precache-manifest.1bb5bde5635c26e19901af3869a402c8.js",
+    "service-worker.js": "/test-GreenData-demo/service-worker.js",
+    "static/css/main.716bce0d.chunk.css.map": "/test-GreenData-demo/static/css/main.716bce0d.chunk.css.map",
+    "static/js/2.b4aed19b.chunk.js.LICENSE.txt": "/test-GreenData-demo/static/js/2.b4aed19b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d188bdfb.js",
+    "static/js/2.b4aed19b.chunk.js",
+    "static/css/main.716bce0d.chunk.css",
+    "static/js/main.f727fa64.chunk.js"
+  ]
+}
